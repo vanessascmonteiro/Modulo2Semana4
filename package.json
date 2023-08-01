@@ -1,0 +1,13 @@
+{
+  "name": "modulo2semana4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "banco": "node BancoPoupancito.js",
+    "presente": "node PresentationDev.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
